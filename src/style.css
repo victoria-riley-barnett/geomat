@@ -1,0 +1,454 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vanilla:hover {
+  filter: drop-shadow(0 0 2em #3178c6aa);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+/* Globe App Specific Styles */
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+}
+
+#map {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* User View Controls - Bottom */
+#view-controls {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  padding: 12px 20px;
+  background: rgba(26, 26, 46, 0.9);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+}
+
+.view-btn {
+  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.view-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.view-btn.active {
+  background: rgba(100, 150, 255, 0.6);
+  border-color: rgba(100, 150, 255, 0.8);
+  box-shadow: 0 0 15px rgba(100, 150, 255, 0.4);
+}
+
+/* Dev controls styling */
+.lil-gui {
+  --background-color: rgba(26, 26, 46, 0.9);
+  --widget-color: rgba(255, 255, 255, 0.1);
+  --focus-color: rgba(100, 150, 255, 0.6);
+  --number-color: rgba(100, 200, 255, 1);
+  --string-color: rgba(100, 255, 150, 1);
+  backdrop-filter: blur(10px);
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+/* Lesson Overlay */
+#lesson-panel {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 280px;
+  max-height: calc(100vh - 280px);
+  overflow-y: auto;
+  padding: 12px 14px;
+  background: rgba(20, 20, 30, 0.92);
+  color: #f2efe6;
+  border: 1px solid rgba(240, 200, 120, 0.4);
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(8px);
+  z-index: 110;
+}
+
+.maplibregl-ctrl-top-left {
+  top: 20px;
+}
+
+#lesson-panel h3 {
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+}
+
+#lesson-panel p {
+  margin: 0;
+  margin-bottom: 8px;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.globe-link {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 6px 12px;
+  background: rgba(100, 150, 255, 0.2);
+  border: 1px solid rgba(100, 150, 255, 0.4);
+  border-radius: 6px;
+  color: #a0c8ff;
+  text-decoration: none;
+  font-size: 12px;
+  transition: all 0.2s ease;
+}
+
+/* Map Style Controls */
+#style-controls {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  padding: 10px 14px;
+  background: rgba(26, 26, 46, 0.92);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+}
+
+.style-btn {
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  color: #e0e0e0;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.style-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(100, 150, 255, 0.4);
+}
+
+.style-btn.active {
+  background: rgba(100, 150, 255, 0.3);
+  border-color: rgba(100, 150, 255, 0.6);
+  color: #fff;
+}
+
+/* Map Legend */
+#map-legend {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  padding: 12px 16px;
+  background: rgba(26, 26, 46, 0.92);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+  color: #e0e0e0;
+  font-size: 11px;
+  max-width: 200px;
+  display: none; /* Hidden until we have better data */
+}
+
+#map-legend h4 {
+  margin: 0 0 8px 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.legend-item:last-child {
+  margin-bottom: 0;
+}
+
+.legend-symbol {
+  width: 20px;
+  height: 12px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.legend-symbol.line {
+  height: 3px;
+}
+
+.legend-symbol.circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.legend-gradient {
+  width: 100%;
+  height: 8px;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+/* Time Controls */
+#time-controls {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 300px;
+  padding: 12px 16px;
+  background: rgba(26, 26, 46, 0.9);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+  color: #fff;
+  font-size: 12px;
+}
+
+.time-slider-container {
+  margin-bottom: 8px;
+}
+
+.time-slider-container label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+
+#time-slider {
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.2);
+  outline: none;
+}
+
+#time-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #6495ED;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(100, 149, 237, 0.5);
+}
+
+#time-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #6495ED;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 0 8px rgba(100, 149, 237, 0.5);
+}
+
+.time-labels {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4px;
+  font-size: 10px;
+  opacity: 0.8;
+}
+
+#time-description {
+  font-size: 11px;
+  line-height: 1.4;
+  color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+.layer-toggles {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.layer-toggles label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.layer-toggles input[type="checkbox"] {
+  cursor: pointer;
+}
+
+.lesson-content {
+  overflow-y: auto;
+  max-height: calc(100vh - 100px);
+}
+
+.lesson-content h2 {
+  font-size: 18px;
+  margin: 0 0 10px 0;
+  color: #f6ecd8;
+}
+
+.lesson-content h3 {
+  font-size: 15px;
+  margin: 15px 0 8px 0;
+  color: #e0d6c2;
+}
+
+.lesson-content h4 {
+  font-size: 13px;
+  margin: 12px 0 6px 0;
+  color: #d0c0a8;
+}
+
+.lesson-content p {
+  margin: 0 0 10px 0;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+.lesson-content ul {
+  margin: 8px 0;
+  padding-left: 20px;
+}
+
+.lesson-content li {
+  margin: 4px 0;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.lesson-content strong {
+  color: #f6ecd8;
+  font-weight: 600;
+}

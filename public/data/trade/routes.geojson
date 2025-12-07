@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danube River Trade Route",
+        "period": "all",
+        "active_from": 1300,
+        "active_to": 1991,
+        "importance": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[16.2, 48.1], [16.9, 48.2], [17.5, 47.8], [18.0, 47.5], [18.5, 47.3], [19.05, 47.5], [19.5, 47.6], [20.0, 47.7], [20.5, 47.8]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habsburg Military Road",
+        "period": "mercantile-onwards",
+        "active_from": 1700,
+        "active_to": 1914,
+        "importance": "military"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[16.3, 46.1], [17.2, 46.5], [18.2, 47.0], [19.0, 47.5], [19.8, 47.8]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venice-Buda Trade Route",
+        "period": "late-feudal-early-modern",
+        "active_from": 1300,
+        "active_to": 1700,
+        "importance": "commercial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[13.4, 45.4], [14.5, 45.8], [15.5, 46.1], [16.5, 46.5], [17.5, 46.9], [18.5, 47.2], [19.05, 47.5]]
+      }
+    }
+  ]
+}

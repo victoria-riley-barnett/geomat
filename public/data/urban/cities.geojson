@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budapest",
+        "period": "all",
+        "population_1450": 15000,
+        "population_1700": 40000,
+        "population_1800": 54000,
+        "population_1870": 270000,
+        "population_1914": 880000,
+        "population_1938": 1100000,
+        "population_1980": 2060000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.040, 47.497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debrecen",
+        "period": "all",
+        "population_1450": 5000,
+        "population_1700": 15000,
+        "population_1800": 25000,
+        "population_1870": 46000,
+        "population_1914": 92000,
+        "population_1938": 120000,
+        "population_1980": 200000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.63, 47.53]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szeged",
+        "period": "all",
+        "population_1450": 3000,
+        "population_1700": 12000,
+        "population_1800": 20000,
+        "population_1870": 56000,
+        "population_1914": 118000,
+        "population_1938": 136000,
+        "population_1980": 175000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.15, 46.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miskolc",
+        "period": "all",
+        "population_1450": 2000,
+        "population_1700": 8000,
+        "population_1800": 12000,
+        "population_1870": 25000,
+        "population_1914": 51000,
+        "population_1938": 90000,
+        "population_1980": 211000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.78, 48.10]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pécs",
+        "period": "all",
+        "population_1450": 4000,
+        "population_1700": 9000,
+        "population_1800": 15000,
+        "population_1870": 28000,
+        "population_1914": 49000,
+        "population_1938": 78000,
+        "population_1980": 170000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.23, 46.07]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      },
+      "properties": {
+        "name": "New York",
+        "economic_weight": 10,
+        "description": "Global financial center, Wall Street, multinational corporate HQs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5074]
+      },
+      "properties": {
+        "name": "London",
+        "economic_weight": 9,
+        "description": "Eurodollar market, City of London finance, declining industry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      },
+      "properties": {
+        "name": "Tokyo",
+        "economic_weight": 9,
+        "description": "Rising Japanese export economy, zaibatsu, high-tech manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      },
+      "properties": {
+        "name": "Paris",
+        "economic_weight": 7,
+        "description": "EEC capital, state-directed capitalism, declining heavy industry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6821, 50.1109]
+      },
+      "properties": {
+        "name": "Frankfurt",
+        "economic_weight": 7,
+        "description": "West German export miracle, Bundesbank, chemical/auto industries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6173, 55.7558]
+      },
+      "properties": {
+        "name": "Moscow",
+        "economic_weight": 6,
+        "description": "Soviet command economy center, Gosplan, heavy industry focus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 34.0522]
+      },
+      "properties": {
+        "name": "Los Angeles",
+        "economic_weight": 6,
+        "description": "Aerospace, entertainment industries, Pacific trade gateway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      },
+      "properties": {
+        "name": "Shanghai",
+        "economic_weight": 5,
+        "description": "Opening Chinese economy, special economic zones emerging"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1432, 46.2044]
+      },
+      "properties": {
+        "name": "Geneva",
+        "economic_weight": 5,
+        "description": "Swiss banking, offshore capital flows, commodity trading"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      },
+      "properties": {
+        "name": "Singapore",
+        "economic_weight": 5,
+        "description": "Asian Tiger, export processing zone, regional finance hub"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pécs Coal Basin",
+        "period": "early-industrial-onwards",
+        "active_from": 1780,
+        "active_to": 1991,
+        "type": "coal",
+        "production": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.23, 46.07]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salgótarján Coal Basin",
+        "period": "high-industrial-onwards",
+        "active_from": 1850,
+        "active_to": 1991,
+        "type": "coal",
+        "production": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.80, 48.10]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borsod Iron Works",
+        "period": "early-industrial-onwards",
+        "active_from": 1770,
+        "active_to": 1991,
+        "type": "ironworks",
+        "production": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.78, 48.10]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csepel Iron and Steel Works",
+        "period": "high-industrial-onwards",
+        "active_from": 1892,
+        "active_to": 1991,
+        "type": "steel",
+        "production": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.07, 47.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Győr Textile Mills",
+        "period": "early-industrial-onwards",
+        "active_from": 1820,
+        "active_to": 1950,
+        "type": "textile",
+        "production": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.63, 47.68]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pest Flour Mills",
+        "period": "high-industrial-onwards",
+        "active_from": 1839,
+        "active_to": 1991,
+        "type": "food-processing",
+        "production": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.08, 47.50]
+      }
+    }
+  ]
+}
