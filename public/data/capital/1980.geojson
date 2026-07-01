@@ -5,120 +5,3749 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060, 40.7128]
+        "coordinates": [
+          19.8172,
+          41.3317
+        ]
       },
       "properties": {
-        "name": "New York",
-        "economic_weight": 10,
-        "description": "Global financial center, Wall Street, multinational corporate HQs"
+        "name": "Tirane",
+        "country": "Albania",
+        "iso3": "ALB",
+        "region": "Europe & Central Asia",
+        "economic_weight": 4.693,
+        "gdp_usd": 1578102105.26316,
+        "gdp_norm": 4.693,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1276, 51.5074]
+        "coordinates": [
+          3.05097,
+          36.7397
+        ]
       },
       "properties": {
-        "name": "London",
-        "economic_weight": 9,
-        "description": "Eurodollar market, City of London finance, declining industry"
+        "name": "Algiers",
+        "country": "Algeria",
+        "iso3": "DZA",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 7.02,
+        "gdp_usd": 42345829079.2062,
+        "gdp_norm": 7.02,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [139.6917, 35.6895]
+        "coordinates": [
+          1.5218,
+          42.5075
+        ]
       },
       "properties": {
-        "name": "Tokyo",
-        "economic_weight": 9,
-        "description": "Rising Japanese export economy, zaibatsu, high-tech manufacturing"
+        "name": "Andorra la Vella",
+        "country": "Andorra",
+        "iso3": "AND",
+        "region": "Europe & Central Asia",
+        "economic_weight": 3.8,
+        "gdp_usd": 446377776.798001,
+        "gdp_norm": 3.8,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3522, 48.8566]
+        "coordinates": [
+          13.242,
+          -8.81155
+        ]
+      },
+      "properties": {
+        "name": "Luanda",
+        "country": "Angola",
+        "iso3": "AGO",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.63,
+        "gdp_usd": 5930503400.96263,
+        "gdp_norm": 5.63,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8456,
+          17.1175
+        ]
+      },
+      "properties": {
+        "name": "Saint John's",
+        "country": "Antigua and Barbuda",
+        "iso3": "ATG",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 2.94,
+        "gdp_usd": 132451851.851852,
+        "gdp_norm": 2.94,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4173,
+          -34.6118
+        ]
+      },
+      "properties": {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "iso3": "ARG",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 7.443,
+        "gdp_usd": 76961923741.0701,
+        "gdp_norm": 7.443,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.129,
+          -35.282
+        ]
+      },
+      "properties": {
+        "name": "Canberra",
+        "country": "Australia",
+        "iso3": "AUS",
+        "region": "East Asia & Pacific",
+        "economic_weight": 7.916,
+        "gdp_usd": 150200557103.064,
+        "gdp_norm": 7.916,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3798,
+          48.2201
+        ]
+      },
+      "properties": {
+        "name": "Vienna",
+        "country": "Austria",
+        "iso3": "AUT",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.486,
+        "gdp_usd": 81737498404.5948,
+        "gdp_norm": 7.486,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.339,
+          25.0661
+        ]
+      },
+      "properties": {
+        "name": "Nassau",
+        "country": "Bahamas, The",
+        "iso3": "BHS",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.575,
+        "gdp_usd": 1335300000,
+        "gdp_norm": 4.575,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5354,
+          26.1921
+        ]
+      },
+      "properties": {
+        "name": "Manama",
+        "country": "Bahrain",
+        "iso3": "BHR",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 5.256,
+        "gdp_usd": 3493834468.02865,
+        "gdp_norm": 5.256,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4113,
+          23.7055
+        ]
+      },
+      "properties": {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "iso3": "BGD",
+        "region": "South Asia",
+        "economic_weight": 6.421,
+        "gdp_usd": 18138049095.6072,
+        "gdp_norm": 6.421,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6105,
+          13.0935
+        ]
+      },
+      "properties": {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "iso3": "BRB",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.379,
+        "gdp_usd": 1012280614.52792,
+        "gdp_norm": 4.379,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36761,
+          50.8371
+        ]
+      },
+      "properties": {
+        "name": "Brussels",
+        "country": "Belgium",
+        "iso3": "BEL",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.796,
+        "gdp_usd": 126829314388.191,
+        "gdp_norm": 7.796,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7713,
+          17.2534
+        ]
+      },
+      "properties": {
+        "name": "Belmopan",
+        "country": "Belize",
+        "iso3": "BLZ",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 3.41,
+        "gdp_usd": 257400000,
+        "gdp_norm": 3.41,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6323,
+          6.4779
+        ]
+      },
+      "properties": {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "iso3": "BEN",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.611,
+        "gdp_usd": 1405251846.54048,
+        "gdp_norm": 4.611,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.706,
+          32.3293
+        ]
+      },
+      "properties": {
+        "name": "Hamilton",
+        "country": "Bermuda",
+        "iso3": "BMU",
+        "region": "North America",
+        "economic_weight": 4.025,
+        "gdp_usd": 613299968,
+        "gdp_norm": 4.025,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6177,
+          27.5768
+        ]
+      },
+      "properties": {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "iso3": "BTN",
+        "region": "South Asia",
+        "economic_weight": 2.92,
+        "gdp_usd": 128669200.916451,
+        "gdp_norm": 2.92,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1936,
+          -13.9908
+        ]
+      },
+      "properties": {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "iso3": "BOL",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.44,
+        "gdp_usd": 4537479608.48287,
+        "gdp_norm": 5.44,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9201,
+          -24.6544
+        ]
+      },
+      "properties": {
+        "name": "Gaborone",
+        "country": "Botswana",
+        "iso3": "BWA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.412,
+        "gdp_usd": 1060889703.75374,
+        "gdp_norm": 4.412,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9292,
+          -15.7801
+        ]
+      },
+      "properties": {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "iso3": "BRA",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 8.24,
+        "gdp_usd": 237393489892.637,
+        "gdp_norm": 8.24,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.946,
+          4.94199
+        ]
+      },
+      "properties": {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei Darussalam",
+        "iso3": "BRN",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.054,
+        "gdp_usd": 10795432293.6119,
+        "gdp_norm": 6.054,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3238,
+          42.7105
+        ]
+      },
+      "properties": {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "iso3": "BGR",
+        "region": "Europe & Central Asia",
+        "economic_weight": 6.484,
+        "gdp_usd": 19839230769.2308,
+        "gdp_norm": 6.484,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53395,
+          12.3605
+        ]
+      },
+      "properties": {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "iso3": "BFA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.835,
+        "gdp_usd": 1928719888.20688,
+        "gdp_norm": 4.835,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3639,
+          -3.3784
+        ]
+      },
+      "properties": {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "iso3": "BDI",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.311,
+        "gdp_usd": 919726666.666667,
+        "gdp_norm": 4.311,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5087,
+          14.9218
+        ]
+      },
+      "properties": {
+        "name": "Praia",
+        "country": "Cabo Verde",
+        "iso3": "CPV",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 2.991,
+        "gdp_usd": 142246815.345007,
+        "gdp_norm": 2.991,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.874,
+          11.5556
+        ]
+      },
+      "properties": {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "iso3": "KHM",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.162,
+        "gdp_usd": 744384129.707563,
+        "gdp_norm": 4.162,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174,
+          3.8721
+        ]
+      },
+      "properties": {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "iso3": "CMR",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.713,
+        "gdp_usd": 6674569046.6832,
+        "gdp_norm": 5.713,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6919,
+          45.4215
+        ]
+      },
+      "properties": {
+        "name": "Ottawa",
+        "country": "Canada",
+        "iso3": "CAN",
+        "region": "North America",
+        "economic_weight": 8.343,
+        "gdp_usd": 274776566028.053,
+        "gdp_norm": 8.343,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6407,
+          5.63056
+        ]
+      },
+      "properties": {
+        "name": "Bangui",
+        "country": "Central African Republic",
+        "iso3": "CAF",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.21,
+        "gdp_usd": 797048198.534875,
+        "gdp_norm": 4.21,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0445,
+          12.1048
+        ]
+      },
+      "properties": {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "iso3": "TCD",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.393,
+        "gdp_usd": 1033002403.85304,
+        "gdp_norm": 4.393,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6475,
+          -33.475
+        ]
+      },
+      "properties": {
+        "name": "Santiago",
+        "country": "Chile",
+        "iso3": "CHL",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.767,
+        "gdp_usd": 29586676576.0951,
+        "gdp_norm": 6.767,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.286,
+          40.0495
+        ]
+      },
+      "properties": {
+        "name": "Beijing",
+        "country": "China",
+        "iso3": "CHN",
+        "region": "East Asia & Pacific",
+        "economic_weight": 8.088,
+        "gdp_usd": 191487500000,
+        "gdp_norm": 8.088,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.082,
+          4.60987
+        ]
+      },
+      "properties": {
+        "name": "Bogota",
+        "country": "Colombia",
+        "iso3": "COL",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.853,
+        "gdp_usd": 33400735644.0481,
+        "gdp_norm": 6.853,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2418,
+          -11.6986
+        ]
+      },
+      "properties": {
+        "name": "Moroni",
+        "country": "Comoros",
+        "iso3": "COM",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.371,
+        "gdp_usd": 243390495.918962,
+        "gdp_norm": 3.371,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3222,
+          -4.325
+        ]
+      },
+      "properties": {
+        "name": "Kinshasa",
+        "country": "Congo, Dem. Rep.",
+        "iso3": "COD",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 6.257,
+        "gdp_usd": 14394927494.8647,
+        "gdp_norm": 6.257,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2662,
+          -4.2767
+        ]
+      },
+      "properties": {
+        "name": "Brazzaville",
+        "country": "Congo, Rep.",
+        "iso3": "COG",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.748,
+        "gdp_usd": 1705796852.89473,
+        "gdp_norm": 4.748,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0089,
+          9.63701
+        ]
+      },
+      "properties": {
+        "name": "San Jose",
+        "country": "Costa Rica",
+        "iso3": "CRI",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.485,
+        "gdp_usd": 4831447001.16686,
+        "gdp_norm": 5.485,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0305,
+          5.332
+        ]
+      },
+      "properties": {
+        "name": "Yamoussoukro",
+        "country": "Cote d'Ivoire",
+        "iso3": "CIV",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 6.012,
+        "gdp_usd": 10175617609.0962,
+        "gdp_norm": 6.012,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3667,
+          23.1333
+        ]
+      },
+      "properties": {
+        "name": "Havana",
+        "country": "Cuba",
+        "iso3": "CUB",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.487,
+        "gdp_usd": 19912889861.1111,
+        "gdp_norm": 6.487,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3736,
+          35.1676
+        ]
+      },
+      "properties": {
+        "name": "Nicosia",
+        "country": "Cyprus",
+        "iso3": "CYP",
+        "region": "Europe & Central Asia",
+        "economic_weight": 4.913,
+        "gdp_usd": 2154311276.94859,
+        "gdp_norm": 4.913,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681,
+          55.6763
+        ]
+      },
+      "properties": {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "iso3": "DNK",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.384,
+        "gdp_usd": 70811287815.6106,
+        "gdp_norm": 7.384,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.39,
+          15.2976
+        ]
+      },
+      "properties": {
+        "name": "Roseau",
+        "country": "Dominica",
+        "iso3": "DMA",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 2.517,
+        "gdp_usd": 72804653.3333333,
+        "gdp_norm": 2.517,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8908,
+          18.479
+        ]
+      },
+      "properties": {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "iso3": "DOM",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.723,
+        "gdp_usd": 6761300000,
+        "gdp_norm": 5.723,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5243,
+          -0.229498
+        ]
+      },
+      "properties": {
+        "name": "Quito",
+        "country": "Ecuador",
+        "iso3": "ECU",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.411,
+        "gdp_usd": 17881508242.4481,
+        "gdp_norm": 6.411,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2461,
+          30.0982
+        ]
+      },
+      "properties": {
+        "name": "Cairo",
+        "country": "Egypt, Arab Rep.",
+        "iso3": "EGY",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.547,
+        "gdp_usd": 21669908176.3889,
+        "gdp_norm": 6.547,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2073,
+          13.7034
+        ]
+      },
+      "properties": {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "iso3": "SLV",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.272,
+        "gdp_usd": 3573959900,
+        "gdp_norm": 5.272,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7741,
+          3.7523
+        ]
+      },
+      "properties": {
+        "name": "Malabo",
+        "country": "Equatorial Guinea",
+        "iso3": "GNQ",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 2.26,
+        "gdp_usd": 50642880.7737503,
+        "gdp_norm": 2.26,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4659,
+          -26.5225
+        ]
+      },
+      "properties": {
+        "name": "Mbabane",
+        "country": "Eswatini",
+        "iso3": "SWZ",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.937,
+        "gdp_usd": 541976852.577057,
+        "gdp_norm": 3.937,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7468,
+          9.02274
+        ]
+      },
+      "properties": {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "iso3": "ETH",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.748,
+        "gdp_usd": 7012585454.10628,
+        "gdp_norm": 5.748,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91181,
+          61.8926
+        ]
+      },
+      "properties": {
+        "name": "Torshavn",
+        "country": "Faroe Islands",
+        "iso3": "FRO",
+        "region": "Europe & Central Asia",
+        "economic_weight": 3.87,
+        "gdp_usd": 493014300.005217,
+        "gdp_norm": 3.87,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.399,
+          -18.1149
+        ]
+      },
+      "properties": {
+        "name": "Suva",
+        "country": "Fiji",
+        "iso3": "FJI",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.501,
+        "gdp_usd": 1202618816.20852,
+        "gdp_norm": 4.501,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9525,
+          60.1608
+        ]
+      },
+      "properties": {
+        "name": "Helsinki",
+        "country": "Finland",
+        "iso3": "FIN",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.188,
+        "gdp_usd": 53649984061.205,
+        "gdp_norm": 7.188,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35097,
+          48.8566
+        ]
       },
       "properties": {
         "name": "Paris",
-        "economic_weight": 7,
-        "description": "EEC capital, state-directed capitalism, declining heavy industry"
+        "country": "France",
+        "iso3": "FRA",
+        "region": "Europe & Central Asia",
+        "economic_weight": 8.999,
+        "gdp_usd": 694529183483.39,
+        "gdp_norm": 8.999,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.6821, 50.1109]
+        "coordinates": [
+          -149.57,
+          -17.535
+        ]
       },
       "properties": {
-        "name": "Frankfurt",
-        "economic_weight": 7,
-        "description": "West German export miracle, Bundesbank, chemical/auto industries"
+        "name": "Papeete",
+        "country": "French Polynesia",
+        "iso3": "PYF",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.567,
+        "gdp_usd": 1320416024.95218,
+        "gdp_norm": 4.567,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [37.6173, 55.7558]
+        "coordinates": [
+          9.45162,
+          0.38832
+        ]
       },
       "properties": {
-        "name": "Moscow",
-        "economic_weight": 6,
-        "description": "Soviet command economy center, Gosplan, heavy industry focus"
+        "name": "Libreville",
+        "country": "Gabon",
+        "iso3": "GAB",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.399,
+        "gdp_usd": 4279637942.25144,
+        "gdp_norm": 5.399,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2437, 34.0522]
+        "coordinates": [
+          -16.5885,
+          13.4495
+        ]
       },
       "properties": {
-        "name": "Los Angeles",
-        "economic_weight": 6,
-        "description": "Aerospace, entertainment industries, Pacific trade gateway"
+        "name": "Banjul",
+        "country": "Gambia, The",
+        "iso3": "GMB",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.364,
+        "gdp_usd": 241083090.303623,
+        "gdp_norm": 3.364,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [121.4737, 31.2304]
+        "coordinates": [
+          13.4115,
+          52.5235
+        ]
       },
       "properties": {
-        "name": "Shanghai",
-        "economic_weight": 5,
-        "description": "Opening Chinese economy, special economic zones emerging"
+        "name": "Berlin",
+        "country": "Germany",
+        "iso3": "DEU",
+        "region": "Europe & Central Asia",
+        "economic_weight": 9.224,
+        "gdp_usd": 953772499462.019,
+        "gdp_norm": 9.224,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.1432, 46.2044]
+        "coordinates": [
+          -0.20795,
+          5.57045
+        ]
       },
       "properties": {
-        "name": "Geneva",
-        "economic_weight": 5,
-        "description": "Swiss banking, offshore capital flows, commodity trading"
+        "name": "Accra",
+        "country": "Ghana",
+        "iso3": "GHA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.426,
+        "gdp_usd": 4445228215.76763,
+        "gdp_norm": 5.426,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.8198, 1.3521]
+        "coordinates": [
+          23.7166,
+          37.9792
+        ]
+      },
+      "properties": {
+        "name": "Athens",
+        "country": "Greece",
+        "iso3": "GRC",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.219,
+        "gdp_usd": 56039256594.7242,
+        "gdp_norm": 7.219,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7214,
+          64.1836
+        ]
+      },
+      "properties": {
+        "name": "Nuuk",
+        "country": "Greenland",
+        "iso3": "GRL",
+        "region": "Europe & Central Asia",
+        "economic_weight": 3.845,
+        "gdp_usd": 476051740.773769,
+        "gdp_norm": 3.845,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7449,
+          12.0653
+        ]
+      },
+      "properties": {
+        "name": "Saint George's",
+        "country": "Grenada",
+        "iso3": "GRD",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 2.815,
+        "gdp_usd": 110900457.037037,
+        "gdp_norm": 2.815,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5328,
+          14.6248
+        ]
+      },
+      "properties": {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "iso3": "GTM",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.831,
+        "gdp_usd": 7878700000,
+        "gdp_norm": 5.831,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7,
+          9.51667
+        ]
+      },
+      "properties": {
+        "name": "Conakry",
+        "country": "Guinea",
+        "iso3": "GIN",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.981,
+        "gdp_usd": 9746524915.08071,
+        "gdp_norm": 5.981,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1804,
+          11.8037
+        ]
+      },
+      "properties": {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "iso3": "GNB",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.489,
+        "gdp_usd": 287648258.258297,
+        "gdp_norm": 3.489,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1548,
+          6.80461
+        ]
+      },
+      "properties": {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "iso3": "GUY",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.013,
+        "gdp_usd": 603200000,
+        "gdp_norm": 4.013,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3288,
+          18.5392
+        ]
+      },
+      "properties": {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "iso3": "HTI",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.6,
+        "gdp_usd": 1383800000,
+        "gdp_norm": 4.6,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4667,
+          15.1333
+        ]
+      },
+      "properties": {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "iso3": "HND",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.19,
+        "gdp_usd": 3184400000,
+        "gdp_norm": 5.19,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109,
+          22.3964
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong SAR, China",
+        "country": "Hong Kong SAR, China",
+        "iso3": "HKG",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.749,
+        "gdp_usd": 28861857810.6515,
+        "gdp_norm": 6.749,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0408,
+          47.4984
+        ]
+      },
+      "properties": {
+        "name": "Budapest",
+        "country": "Hungary",
+        "iso3": "HUN",
+        "region": "Europe & Central Asia",
+        "economic_weight": 6.592,
+        "gdp_usd": 23116977148.0216,
+        "gdp_norm": 6.592,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8952,
+          64.1353
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "iso3": "ISL",
+        "region": "Europe & Central Asia",
+        "economic_weight": 5.257,
+        "gdp_usd": 3499616683.34167,
+        "gdp_norm": 5.257,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.225,
+          28.6353
+        ]
+      },
+      "properties": {
+        "name": "New Delhi",
+        "country": "India",
+        "iso3": "IND",
+        "region": "South Asia",
+        "economic_weight": 8.069,
+        "gdp_usd": 186328579302.068,
+        "gdp_norm": 8.069,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83,
+          -6.19752
+        ]
+      },
+      "properties": {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "iso3": "IDN",
+        "region": "East Asia & Pacific",
+        "economic_weight": 7.401,
+        "gdp_usd": 72482337397.4439,
+        "gdp_norm": 7.401,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4447,
+          35.6878
+        ]
+      },
+      "properties": {
+        "name": "Tehran",
+        "country": "Iran, Islamic Rep.",
+        "iso3": "IRN",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 7.587,
+        "gdp_usd": 94362275580.0229,
+        "gdp_norm": 7.587,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.394,
+          33.3302
+        ]
+      },
+      "properties": {
+        "name": "Baghdad",
+        "country": "Iraq",
+        "iso3": "IRQ",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 7.173,
+        "gdp_usd": 52569000000,
+        "gdp_norm": 7.173,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26749,
+          53.3441
+        ]
+      },
+      "properties": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "iso3": "IRL",
+        "region": "Europe & Central Asia",
+        "economic_weight": 6.549,
+        "gdp_usd": 21747855640.0712,
+        "gdp_norm": 6.549,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2035,
+          31.7717
+        ]
+      },
+      "properties": {
+        "name": "Israel",
+        "country": "Israel",
+        "iso3": "ISR",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.659,
+        "gdp_usd": 25395256477.5976,
+        "gdp_norm": 6.659,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4823,
+          41.8955
+        ]
+      },
+      "properties": {
+        "name": "Rome",
+        "country": "Italy",
+        "iso3": "ITA",
+        "region": "Europe & Central Asia",
+        "economic_weight": 8.736,
+        "gdp_usd": 478356755595.749,
+        "gdp_norm": 8.736,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.792,
+          17.9927
+        ]
+      },
+      "properties": {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "iso3": "JAM",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.068,
+        "gdp_usd": 2679379371.51261,
+        "gdp_norm": 5.068,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77,
+          35.67
+        ]
+      },
+      "properties": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "iso3": "JPN",
+        "region": "East Asia & Pacific",
+        "economic_weight": 9.343,
+        "gdp_usd": 1129377244854.04,
+        "gdp_norm": 9.343,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9263,
+          31.9497
+        ]
+      },
+      "properties": {
+        "name": "Amman",
+        "country": "Jordan",
+        "iso3": "JOR",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 5.335,
+        "gdp_usd": 3910044474.28044,
+        "gdp_norm": 5.335,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8126,
+          -1.27975
+        ]
+      },
+      "properties": {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "iso3": "KEN",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.773,
+        "gdp_usd": 7265315820.20777,
+        "gdp_norm": 5.773,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.979,
+          1.32905
+        ]
+      },
+      "properties": {
+        "name": "Tarawa",
+        "country": "Kiribati",
+        "iso3": "KIR",
+        "region": "East Asia & Pacific",
+        "economic_weight": 1.961,
+        "gdp_usd": 33157723.1094117,
+        "gdp_norm": 1.961,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.957,
+          37.5323
+        ]
+      },
+      "properties": {
+        "name": "Seoul",
+        "country": "Korea, Rep.",
+        "iso3": "KOR",
+        "region": "East Asia & Pacific",
+        "economic_weight": 7.34,
+        "gdp_usd": 66547970350.6151,
+        "gdp_norm": 7.34,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9824,
+          29.3721
+        ]
+      },
+      "properties": {
+        "name": "Kuwait City",
+        "country": "Kuwait",
+        "iso3": "KWT",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.744,
+        "gdp_usd": 28638868355.9196,
+        "gdp_norm": 6.744,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7167,
+          -29.5208
+        ]
+      },
+      "properties": {
+        "name": "Maseru",
+        "country": "Lesotho",
+        "iso3": "LSO",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.776,
+        "gdp_usd": 431542536.663782,
+        "gdp_norm": 3.776,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7957,
+          6.30039
+        ]
+      },
+      "properties": {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "iso3": "LBR",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.259,
+        "gdp_usd": 854711500,
+        "gdp_norm": 4.259,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1072,
+          32.8578
+        ]
+      },
+      "properties": {
+        "name": "Tripoli",
+        "country": "Libya",
+        "iso3": "LBY",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.997,
+        "gdp_usd": 40953924948.7419,
+        "gdp_norm": 6.997,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52148,
+          47.1411
+        ]
+      },
+      "properties": {
+        "name": "Vaduz",
+        "country": "Liechtenstein",
+        "iso3": "LIE",
+        "region": "Europe & Central Asia",
+        "economic_weight": 3.928,
+        "gdp_usd": 534699362.896161,
+        "gdp_norm": 3.928,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1296,
+          49.61
+        ]
+      },
+      "properties": {
+        "name": "Luxembourg",
+        "country": "Luxembourg",
+        "iso3": "LUX",
+        "region": "Europe & Central Asia",
+        "economic_weight": 5.64,
+        "gdp_usd": 6019805490.41247,
+        "gdp_norm": 5.64,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7167,
+          -20.4667
+        ]
+      },
+      "properties": {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "iso3": "MDG",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.537,
+        "gdp_usd": 5201818347.79882,
+        "gdp_norm": 5.537,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7703,
+          -13.9899
+        ]
+      },
+      "properties": {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "iso3": "MWI",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.787,
+        "gdp_usd": 1801156774.56852,
+        "gdp_norm": 4.787,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.684,
+          3.12433
+        ]
+      },
+      "properties": {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "iso3": "MYS",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.633,
+        "gdp_usd": 24488224677.2105,
+        "gdp_norm": 6.633,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5109,
+          4.1742
+        ]
+      },
+      "properties": {
+        "name": "Male",
+        "country": "Maldives",
+        "iso3": "MDV",
+        "region": "South Asia",
+        "economic_weight": 2.136,
+        "gdp_usd": 42463576.1589404,
+        "gdp_norm": 2.136,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50034,
+          13.5667
+        ]
+      },
+      "properties": {
+        "name": "Bamako",
+        "country": "Mali",
+        "iso3": "MLI",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.074,
+        "gdp_usd": 2704362788.89611,
+        "gdp_norm": 5.074,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5189,
+          35.9042
+        ]
+      },
+      "properties": {
+        "name": "Valletta",
+        "country": "Malta",
+        "iso3": "MLT",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 4.528,
+        "gdp_usd": 1250198601.09268,
+        "gdp_norm": 4.528,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.135,
+          7.11046
+        ]
+      },
+      "properties": {
+        "name": "Majuro",
+        "country": "Marshall Islands",
+        "iso3": "MHL",
+        "region": "East Asia & Pacific",
+        "economic_weight": 1.808,
+        "gdp_usd": 26710653,
+        "gdp_norm": 1.808,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9824,
+          18.2367
+        ]
+      },
+      "properties": {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "iso3": "MRT",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.404,
+        "gdp_usd": 1047925105.54497,
+        "gdp_norm": 4.404,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4977,
+          -20.1605
+        ]
+      },
+      "properties": {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "iso3": "MUS",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.468,
+        "gdp_usd": 1147027924.10804,
+        "gdp_norm": 4.468,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1276,
+          19.427
+        ]
+      },
+      "properties": {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "iso3": "MEX",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 8.138,
+        "gdp_usd": 205577055465.993,
+        "gdp_norm": 8.138,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.185,
+          6.91771
+        ]
+      },
+      "properties": {
+        "name": "Palikir",
+        "country": "Micronesia, Fed. Sts.",
+        "iso3": "FSM",
+        "region": "East Asia & Pacific",
+        "economic_weight": 2.428,
+        "gdp_usd": 64186644,
+        "gdp_norm": 2.428,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41891,
+          43.7325
+        ]
+      },
+      "properties": {
+        "name": "Monaco",
+        "country": "Monaco",
+        "iso3": "MCO",
+        "region": "Europe & Central Asia",
+        "economic_weight": 4.597,
+        "gdp_usd": 1378175524.11186,
+        "gdp_norm": 4.597,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.937,
+          47.9129
+        ]
+      },
+      "properties": {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "iso3": "MNG",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.896,
+        "gdp_usd": 2101394100,
+        "gdp_norm": 4.896,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8704,
+          33.9905
+        ]
+      },
+      "properties": {
+        "name": "Rabat",
+        "country": "Morocco",
+        "iso3": "MAR",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.548,
+        "gdp_usd": 21728516153.0907,
+        "gdp_norm": 6.548,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9562,
+          21.914
+        ]
+      },
+      "properties": {
+        "name": "Naypyidaw",
+        "country": "Myanmar",
+        "iso3": "MMR",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.397,
+        "gdp_usd": 1038225167.05882,
+        "gdp_norm": 4.397,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0931,
+          -22.5648
+        ]
+      },
+      "properties": {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "iso3": "NAM",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.996,
+        "gdp_usd": 2421990338.12083,
+        "gdp_norm": 4.996,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.920867,
+          -0.5477
+        ]
+      },
+      "properties": {
+        "name": "Yaren District",
+        "country": "Nauru",
+        "iso3": "NRU",
+        "region": "East Asia & Pacific",
+        "economic_weight": 2.207,
+        "gdp_usd": 46947124.2339833,
+        "gdp_norm": 2.207,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3157,
+          27.6939
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "iso3": "NPL",
+        "region": "South Asia",
+        "economic_weight": 4.841,
+        "gdp_usd": 1945916583.33333,
+        "gdp_norm": 4.841,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89095,
+          52.3738
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "iso3": "NLD",
+        "region": "Europe & Central Asia",
+        "economic_weight": 8.102,
+        "gdp_usd": 195439301706.939,
+        "gdp_norm": 8.102,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.464,
+          -22.2677
+        ]
+      },
+      "properties": {
+        "name": "Noum'ea",
+        "country": "New Caledonia",
+        "iso3": "NCL",
+        "region": "East Asia & Pacific",
+        "economic_weight": 4.489,
+        "gdp_usd": 1182463951.21814,
+        "gdp_norm": 4.489,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.776,
+          -41.2865
+        ]
+      },
+      "properties": {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "iso3": "NZL",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.596,
+        "gdp_usd": 23244547384.6748,
+        "gdp_norm": 6.596,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2734,
+          12.1475
+        ]
+      },
+      "properties": {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "iso3": "NIC",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.91,
+        "gdp_usd": 2144300006.18028,
+        "gdp_norm": 4.91,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1073,
+          13.514
+        ]
+      },
+      "properties": {
+        "name": "Niamey",
+        "country": "Niger",
+        "iso3": "NER",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.021,
+        "gdp_usd": 2508524720.71895,
+        "gdp_norm": 5.021,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48906,
+          9.05804
+        ]
+      },
+      "properties": {
+        "name": "Abuja",
+        "country": "Nigeria",
+        "iso3": "NGA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 7.315,
+        "gdp_usd": 64201788122.6054,
+        "gdp_norm": 7.315,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7387,
+          59.9138
+        ]
+      },
+      "properties": {
+        "name": "Oslo",
+        "country": "Norway",
+        "iso3": "NOR",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.317,
+        "gdp_usd": 64439382896.0156,
+        "gdp_norm": 7.317,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5874,
+          23.6105
+        ]
+      },
+      "properties": {
+        "name": "Muscat",
+        "country": "Oman",
+        "iso3": "OMN",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 5.636,
+        "gdp_usd": 5981760277.93862,
+        "gdp_norm": 5.636,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          30.5167
+        ]
+      },
+      "properties": {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "iso3": "PAK",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.609,
+        "gdp_usd": 23654444444.4444,
+        "gdp_norm": 6.609,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.479,
+          7.34194
+        ]
+      },
+      "properties": {
+        "name": "Koror",
+        "country": "Palau",
+        "iso3": "PLW",
+        "region": "East Asia & Pacific",
+        "economic_weight": 1.883,
+        "gdp_usd": 29728054,
+        "gdp_norm": 1.883,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5188,
+          8.99427
+        ]
+      },
+      "properties": {
+        "name": "Panama City",
+        "country": "Panama",
+        "iso3": "PAN",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.452,
+        "gdp_usd": 4614086400,
+        "gdp_norm": 5.452,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.194,
+          -9.47357
+        ]
+      },
+      "properties": {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "iso3": "PNG",
+        "region": "East Asia & Pacific",
+        "economic_weight": 5.032,
+        "gdp_usd": 2545808455.52399,
+        "gdp_norm": 5.032,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6362,
+          -25.3005
+        ]
+      },
+      "properties": {
+        "name": "Asuncion",
+        "country": "Paraguay",
+        "iso3": "PRY",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.426,
+        "gdp_usd": 4448087301.5873,
+        "gdp_norm": 5.426,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0465,
+          -12.0931
+        ]
+      },
+      "properties": {
+        "name": "Lima",
+        "country": "Peru",
+        "iso3": "PER",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.421,
+        "gdp_usd": 18136838537.725,
+        "gdp_norm": 6.421,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035,
+          14.5515
+        ]
+      },
+      "properties": {
+        "name": "Manila",
+        "country": "Philippines",
+        "iso3": "PHL",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.922,
+        "gdp_usd": 36848080898.8112,
+        "gdp_norm": 6.922,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13552,
+          38.7072
+        ]
+      },
+      "properties": {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "iso3": "PRT",
+        "region": "Europe & Central Asia",
+        "economic_weight": 6.842,
+        "gdp_usd": 32896519823.7885,
+        "gdp_norm": 6.842,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0,
+          18.23
+        ]
+      },
+      "properties": {
+        "name": "San Juan",
+        "country": "Puerto Rico (US)",
+        "iso3": "PRI",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.259,
+        "gdp_usd": 14436100000,
+        "gdp_norm": 6.259,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5082,
+          25.2948
+        ]
+      },
+      "properties": {
+        "name": "Doha",
+        "country": "Qatar",
+        "iso3": "QAT",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 5.826,
+        "gdp_usd": 7829165261.81396,
+        "gdp_norm": 5.826,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0587,
+          -1.95325
+        ]
+      },
+      "properties": {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "iso3": "RWA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.531,
+        "gdp_usd": 1254765641.52116,
+        "gdp_norm": 4.531,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.752,
+          -13.8314
+        ]
+      },
+      "properties": {
+        "name": "Apia",
+        "country": "Samoa",
+        "iso3": "WSM",
+        "region": "East Asia & Pacific",
+        "economic_weight": 2.904,
+        "gdp_usd": 125747037.963668,
+        "gdp_norm": 2.904,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6071,
+          0.20618
+        ]
+      },
+      "properties": {
+        "name": "Sao Tome",
+        "country": "Sao Tome and Principe",
+        "iso3": "STP",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 2.598,
+        "gdp_usd": 81662231.0329968,
+        "gdp_norm": 2.598,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6977,
+          24.6748
+        ]
+      },
+      "properties": {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "iso3": "SAU",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 7.981,
+        "gdp_usd": 164539660725.118,
+        "gdp_norm": 7.981,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4734,
+          14.7247
+        ]
+      },
+      "properties": {
+        "name": "Dakar",
+        "country": "Senegal",
+        "iso3": "SEN",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.436,
+        "gdp_usd": 4510108290.69571,
+        "gdp_norm": 5.436,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4466,
+          -4.6309
+        ]
+      },
+      "properties": {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "iso3": "SYC",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 3.06,
+        "gdp_usd": 156783829.504298,
+        "gdp_norm": 3.06,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2134,
+          8.4821
+        ]
+      },
+      "properties": {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "iso3": "SLE",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.438,
+        "gdp_usd": 1100685844.92284,
+        "gdp_norm": 4.438,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          1.28941
+        ]
       },
       "properties": {
         "name": "Singapore",
-        "economic_weight": 5,
-        "description": "Asian Tiger, export processing zone, regional finance hub"
+        "country": "Singapore",
+        "iso3": "SGP",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.122,
+        "gdp_usd": 11896256782.8566,
+        "gdp_norm": 6.122,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.949,
+          -9.42676
+        ]
+      },
+      "properties": {
+        "name": "Honiara",
+        "country": "Solomon Islands",
+        "iso3": "SLB",
+        "region": "East Asia & Pacific",
+        "economic_weight": 3.169,
+        "gdp_usd": 182852106.523408,
+        "gdp_norm": 3.169,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3254,
+          2.07515
+        ]
+      },
+      "properties": {
+        "name": "Mogadishu",
+        "country": "Somalia, Fed. Rep.",
+        "iso3": "SOM",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.012,
+        "gdp_usd": 602515548.452104,
+        "gdp_norm": 4.012,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1871,
+          -25.746
+        ]
+      },
+      "properties": {
+        "name": "Pretoria",
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 7.549,
+        "gdp_usd": 89411864402.4272,
+        "gdp_norm": 7.549,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70327,
+          40.4167
+        ]
+      },
+      "properties": {
+        "name": "Madrid",
+        "country": "Spain",
+        "iso3": "ESP",
+        "region": "Europe & Central Asia",
+        "economic_weight": 8.226,
+        "gdp_usd": 232600556973.776,
+        "gdp_norm": 8.226,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8528,
+          6.92148
+        ]
+      },
+      "properties": {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "iso3": "LKA",
+        "region": "South Asia",
+        "economic_weight": 5.356,
+        "gdp_usd": 4024621899.57653,
+        "gdp_norm": 5.356,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7309,
+          17.3
+        ]
+      },
+      "properties": {
+        "name": "Basseterre",
+        "country": "St. Kitts and Nevis",
+        "iso3": "KNA",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 2.474,
+        "gdp_usd": 68459259.2592593,
+        "gdp_norm": 2.474,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9832,
+          14.0
+        ]
+      },
+      "properties": {
+        "name": "Castries",
+        "country": "St. Lucia",
+        "iso3": "LCA",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 3.119,
+        "gdp_usd": 170370370.37037,
+        "gdp_norm": 3.119,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2653,
+          13.2035
+        ]
+      },
+      "properties": {
+        "name": "Kingstown",
+        "country": "St. Vincent and the Grenadines",
+        "iso3": "VCT",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 2.604,
+        "gdp_usd": 82340339.6296296,
+        "gdp_norm": 2.604,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5363,
+          15.5932
+        ]
+      },
+      "properties": {
+        "name": "Khartoum",
+        "country": "Sudan",
+        "iso3": "SDN",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.921,
+        "gdp_usd": 8951800000,
+        "gdp_norm": 5.921,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1679,
+          5.8232
+        ]
+      },
+      "properties": {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "iso3": "SUR",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 4.208,
+        "gdp_usd": 795000000,
+        "gdp_norm": 4.208,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0645,
+          59.3327
+        ]
+      },
+      "properties": {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "iso3": "SWE",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.876,
+        "gdp_usd": 141886067003.972,
+        "gdp_norm": 7.876,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44821,
+          46.948
+        ]
+      },
+      "properties": {
+        "name": "Bern",
+        "country": "Switzerland",
+        "iso3": "CHE",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.772,
+        "gdp_usd": 122557843886.137,
+        "gdp_norm": 7.772,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3119,
+          33.5146
+        ]
+      },
+      "properties": {
+        "name": "Damascus",
+        "country": "Syrian Arab Republic",
+        "iso3": "SYR",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 6.188,
+        "gdp_usd": 13062420382.1656,
+        "gdp_norm": 6.188,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7382,
+          -6.17486
+        ]
+      },
+      "properties": {
+        "name": "Dodoma",
+        "country": "Tanzania",
+        "iso3": "TZA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 6.093,
+        "gdp_usd": 11409228086.7463,
+        "gdp_norm": 6.093,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.521,
+          13.7308
+        ]
+      },
+      "properties": {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "iso3": "THA",
+        "region": "East Asia & Pacific",
+        "economic_weight": 6.83,
+        "gdp_usd": 32353514988.7287,
+        "gdp_norm": 6.83,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2255,
+          6.1228
+        ]
+      },
+      "properties": {
+        "name": "Lome",
+        "country": "Togo",
+        "iso3": "TGO",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.705,
+        "gdp_usd": 1604836915.96662,
+        "gdp_norm": 4.705,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.216,
+          -21.136
+        ]
+      },
+      "properties": {
+        "name": "Nuku'alofa",
+        "country": "Tonga",
+        "iso3": "TON",
+        "region": "East Asia & Pacific",
+        "economic_weight": 2.296,
+        "gdp_usd": 53260077.4311091,
+        "gdp_norm": 2.296,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4789,
+          10.6596
+        ]
+      },
+      "properties": {
+        "name": "Port-of-Spain",
+        "country": "Trinidad and Tobago",
+        "iso3": "TTO",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 5.665,
+        "gdp_usd": 6235833333.33333,
+        "gdp_norm": 5.665,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21,
+          36.7899
+        ]
+      },
+      "properties": {
+        "name": "Tunis",
+        "country": "Tunisia",
+        "iso3": "TUN",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 5.904,
+        "gdp_usd": 8744134354.16152,
+        "gdp_norm": 5.904,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3606,
+          39.7153
+        ]
+      },
+      "properties": {
+        "name": "Ankara",
+        "country": "Turkiye",
+        "iso3": "TUR",
+        "region": "Europe & Central Asia",
+        "economic_weight": 7.364,
+        "gdp_usd": 68823684210.5263,
+        "gdp_norm": 7.364,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.089567,
+          -8.6314877
+        ]
+      },
+      "properties": {
+        "name": "Funafuti",
+        "country": "Tuvalu",
+        "iso3": "TUV",
+        "region": "East Asia & Pacific",
+        "economic_weight": 0.5,
+        "gdp_usd": 4206128.13370474,
+        "gdp_norm": 0.5,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5729,
+          0.314269
+        ]
+      },
+      "properties": {
+        "name": "Kampala",
+        "country": "Uganda",
+        "iso3": "UGA",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 4.525,
+        "gdp_usd": 1244610000,
+        "gdp_norm": 4.525,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3705,
+          24.4764
+        ]
+      },
+      "properties": {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "iso3": "ARE",
+        "region": "Middle East, North Africa, Afghanistan & Pakistan",
+        "economic_weight": 7.041,
+        "gdp_usd": 43599160050.3322,
+        "gdp_norm": 7.041,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.126236,
+          51.5002
+        ]
+      },
+      "properties": {
+        "name": "London",
+        "country": "United Kingdom",
+        "iso3": "GBR",
+        "region": "Europe & Central Asia",
+        "economic_weight": 8.853,
+        "gdp_usd": 564947710899.373,
+        "gdp_norm": 8.853,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032,
+          38.8895
+        ]
+      },
+      "properties": {
+        "name": "Washington D.C.",
+        "country": "United States",
+        "iso3": "USA",
+        "region": "North America",
+        "economic_weight": 10.0,
+        "gdp_usd": 2857307000000,
+        "gdp_norm": 10.0,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0675,
+          -34.8941
+        ]
+      },
+      "properties": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "iso3": "URY",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 6.011,
+        "gdp_usd": 10163020115.7344,
+        "gdp_norm": 6.011,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.321,
+          -17.7404
+        ]
+      },
+      "properties": {
+        "name": "Port-Vila",
+        "country": "Vanuatu",
+        "iso3": "VUT",
+        "region": "East Asia & Pacific",
+        "economic_weight": 2.878,
+        "gdp_usd": 121185497.569261,
+        "gdp_norm": 2.878,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8371,
+          9.08165
+        ]
+      },
+      "properties": {
+        "name": "Caracas",
+        "country": "Venezuela, RB",
+        "iso3": "VEN",
+        "region": "Latin America & Caribbean ",
+        "economic_weight": 7.256,
+        "gdp_usd": 59116511627.907,
+        "gdp_norm": 7.256,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2937,
+          -15.3982
+        ]
+      },
+      "properties": {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "iso3": "ZMB",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.33,
+        "gdp_usd": 3884530853.76162,
+        "gdp_norm": 5.33,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0672,
+          -17.8312
+        ]
+      },
+      "properties": {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "iso3": "ZWE",
+        "region": "Sub-Saharan Africa ",
+        "economic_weight": 5.714,
+        "gdp_usd": 6682278300.2622,
+        "gdp_norm": 5.714,
+        "synthesis_version": "0.1.0",
+        "synthesis_formula": [
+          "gdp_log_normalized"
+        ]
       }
     }
   ]

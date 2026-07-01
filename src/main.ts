@@ -108,14 +108,36 @@ let activeLayers = {
     urban: false,
 };
 
-// Async function to load period-specific boundary data
-// TODO: Replace with Natural Earth or CShapes historical boundaries
-async function loadBoundaryData(_period: TimePeriod): Promise<GeoJSON.FeatureCollection> {
-    // Placeholder - will fetch from authoritative sources
-    return {
-        type: 'FeatureCollection',
-        features: []
-    };
+// Map time periods to available boundary data files.
+// Sources: EurAtlas/GEODATA (1450/1500), CShapes-derived (1914, 1938, 1960/1980).
+// Missing: 1550, 1700, 1800, 1870 — no files yet, fallback to nearest available.
+const boundaryFileMap: Record<TimePeriod, string | null> = {
+    'late-feudal':     '1450',   // world_1500 dataset
+    'early-modern':    '1450',   // proxy — no 1550 file
+    'mercantile':      null,     // no good proxy; ~1700 not covered
+    'early-industrial': null,    // 1815 file exists but is empty
+    'high-industrial': null,     // 1880 file exists but is empty
+    'imperial':        '1914',
+    'interwar':        '1938',
+    'cold-war':        '1980',   // actually world_1960 data
+};
+
+async function loadBoundaryData(period: TimePeriod): Promise<GeoJSON.FeatureCollection> {
+    const fileYear = boundaryFileMap[period];
+    if (!fileYear) {
+        return { type: 'FeatureCollection', features: [] };
+    }
+    try {
+        const response = await fetch(`/data/boundaries/${fileYear}.geojson`);
+        if (!response.ok) {
+            console.warn(`Boundary file not found for ${period} (${fileYear})`);
+            return { type: 'FeatureCollection', features: [] };
+        }
+        return response.json();
+    } catch (err) {
+        console.warn(`Error loading boundary data for ${period}:`, err);
+        return { type: 'FeatureCollection', features: [] };
+    }
 }
 
 // Async function to load trade route data

@@ -1,0 +1,2003 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.05097,
+          36.7397
+        ]
+      },
+      "properties": {
+        "name": "Algiers",
+        "country": "Algeria",
+        "iso3": "DZA",
+        "economic_weight": 5.31,
+        "gdp_usd": 2723615451.30098,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4173,
+          -34.6118
+        ]
+      },
+      "properties": {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "iso3": "ARG",
+        "economic_weight": 6.87,
+        "gdp_usd": 15865474315.4056,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.129,
+          -35.282
+        ]
+      },
+      "properties": {
+        "name": "Canberra",
+        "country": "Australia",
+        "iso3": "AUS",
+        "economic_weight": 7.01,
+        "gdp_usd": 18635682981.7093,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3798,
+          48.2201
+        ]
+      },
+      "properties": {
+        "name": "Vienna",
+        "country": "Austria",
+        "iso3": "AUT",
+        "economic_weight": 6.1,
+        "gdp_usd": 6624086313.14334,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.339,
+          25.0661
+        ]
+      },
+      "properties": {
+        "name": "Nassau",
+        "country": "Bahamas, The",
+        "iso3": "BHS",
+        "economic_weight": 2.85,
+        "gdp_usd": 169736027.157764,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4113,
+          23.7055
+        ]
+      },
+      "properties": {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "iso3": "BGD",
+        "economic_weight": 5.71,
+        "gdp_usd": 4274894083.33333,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6105,
+          13.0935
+        ]
+      },
+      "properties": {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "iso3": "BRB",
+        "economic_weight": 2.18,
+        "gdp_usd": 80021846.9453826,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36761,
+          50.8371
+        ]
+      },
+      "properties": {
+        "name": "Brussels",
+        "country": "Belgium",
+        "iso3": "BEL",
+        "economic_weight": 6.61,
+        "gdp_usd": 11810619368.3874,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7713,
+          17.2534
+        ]
+      },
+      "properties": {
+        "name": "Belmopan",
+        "country": "Belize",
+        "iso3": "BLZ",
+        "economic_weight": 1.25,
+        "gdp_usd": 28072478.0724781,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6323,
+          6.4779
+        ]
+      },
+      "properties": {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "iso3": "BEN",
+        "economic_weight": 3.1,
+        "gdp_usd": 226195578.434497,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.706,
+          32.3293
+        ]
+      },
+      "properties": {
+        "name": "Hamilton",
+        "country": "Bermuda",
+        "iso3": "BMU",
+        "economic_weight": 2.09,
+        "gdp_usd": 72400000,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1936,
+          -13.9908
+        ]
+      },
+      "properties": {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "iso3": "BOL",
+        "economic_weight": 3.55,
+        "gdp_usd": 377020202.020202,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9201,
+          -24.6544
+        ]
+      },
+      "properties": {
+        "name": "Gaborone",
+        "country": "Botswana",
+        "iso3": "BWA",
+        "economic_weight": 1.32,
+        "gdp_usd": 30411413.6552828,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9292,
+          -15.7801
+        ]
+      },
+      "properties": {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "iso3": "BRA",
+        "economic_weight": 6.93,
+        "gdp_usd": 17030465539.3906,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53395,
+          12.3605
+        ]
+      },
+      "properties": {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "iso3": "BFA",
+        "economic_weight": 3.44,
+        "gdp_usd": 330442815.821186,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3639,
+          -3.3784
+        ]
+      },
+      "properties": {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "iso3": "BDI",
+        "economic_weight": 2.98,
+        "gdp_usd": 195999990,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174,
+          3.8721
+        ]
+      },
+      "properties": {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "iso3": "CMR",
+        "economic_weight": 3.99,
+        "gdp_usd": 614206068.497266,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6919,
+          45.4215
+        ]
+      },
+      "properties": {
+        "name": "Ottawa",
+        "country": "Canada",
+        "iso3": "CAN",
+        "economic_weight": 7.7,
+        "gdp_usd": 40563768946.9503,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6407,
+          5.63056
+        ]
+      },
+      "properties": {
+        "name": "Bangui",
+        "country": "Central African Republic",
+        "iso3": "CAF",
+        "economic_weight": 2.48,
+        "gdp_usd": 112155598.492157,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0445,
+          12.1048
+        ]
+      },
+      "properties": {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "iso3": "TCD",
+        "economic_weight": 3.39,
+        "gdp_usd": 313582728.147574,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6475,
+          -33.475
+        ]
+      },
+      "properties": {
+        "name": "Santiago",
+        "country": "Chile",
+        "iso3": "CHL",
+        "economic_weight": 5.69,
+        "gdp_usd": 4211103676.74027,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.286,
+          40.0495
+        ]
+      },
+      "properties": {
+        "name": "Beijing",
+        "country": "China",
+        "iso3": "CHN",
+        "economic_weight": 8.05,
+        "gdp_usd": 59846235024.7318,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.082,
+          4.60987
+        ]
+      },
+      "properties": {
+        "name": "Bogota",
+        "country": "Colombia",
+        "iso3": "COL",
+        "economic_weight": 5.66,
+        "gdp_usd": 4031152976.63904,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3222,
+          -4.325
+        ]
+      },
+      "properties": {
+        "name": "Kinshasa",
+        "country": "Congo, Dem. Rep.",
+        "iso3": "COD",
+        "economic_weight": 5.49,
+        "gdp_usd": 3359404117.64706,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2662,
+          -4.2767
+        ]
+      },
+      "properties": {
+        "name": "Brazzaville",
+        "country": "Congo, Rep.",
+        "iso3": "COG",
+        "economic_weight": 2.62,
+        "gdp_usd": 131731862.783017,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0089,
+          9.63701
+        ]
+      },
+      "properties": {
+        "name": "San Jose",
+        "country": "Costa Rica",
+        "iso3": "CRI",
+        "economic_weight": 3.82,
+        "gdp_usd": 507513829.994855,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0305,
+          5.332
+        ]
+      },
+      "properties": {
+        "name": "Yamoussoukro",
+        "country": "Cote d'Ivoire",
+        "iso3": "CIV",
+        "economic_weight": 3.88,
+        "gdp_usd": 546203559.344361,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681,
+          55.6763
+        ]
+      },
+      "properties": {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "iso3": "DNK",
+        "economic_weight": 6.06,
+        "gdp_usd": 6361166544.50349,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8908,
+          18.479
+        ]
+      },
+      "properties": {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "iso3": "DOM",
+        "economic_weight": 4.07,
+        "gdp_usd": 672399700,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5243,
+          -0.229498
+        ]
+      },
+      "properties": {
+        "name": "Quito",
+        "country": "Ecuador",
+        "iso3": "ECU",
+        "economic_weight": 5.06,
+        "gdp_usd": 2069464937.19791,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2461,
+          30.0982
+        ]
+      },
+      "properties": {
+        "name": "Cairo",
+        "country": "Egypt, Arab Rep.",
+        "iso3": "EGY",
+        "economic_weight": 5.69,
+        "gdp_usd": 4206270352.22633,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4659,
+          -26.5225
+        ]
+      },
+      "properties": {
+        "name": "Mbabane",
+        "country": "Eswatini",
+        "iso3": "SWZ",
+        "economic_weight": 1.45,
+        "gdp_usd": 35076845.9692616,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7468,
+          9.02274
+        ]
+      },
+      "properties": {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "iso3": "ETH",
+        "economic_weight": 4.84,
+        "gdp_usd": 1610511693.84215,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.399,
+          -18.1149
+        ]
+      },
+      "properties": {
+        "name": "Suva",
+        "country": "Fiji",
+        "iso3": "FJI",
+        "economic_weight": 2.48,
+        "gdp_usd": 112328422.113084,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9525,
+          60.1608
+        ]
+      },
+      "properties": {
+        "name": "Helsinki",
+        "country": "Finland",
+        "iso3": "FIN",
+        "economic_weight": 5.89,
+        "gdp_usd": 5279481824.12983,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35097,
+          48.8566
+        ]
+      },
+      "properties": {
+        "name": "Paris",
+        "country": "France",
+        "iso3": "FRA",
+        "economic_weight": 8.08,
+        "gdp_usd": 61959085885.3427,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45162,
+          0.38832
+        ]
+      },
+      "properties": {
+        "name": "Libreville",
+        "country": "Gabon",
+        "iso3": "GAB",
+        "economic_weight": 2.69,
+        "gdp_usd": 141468977.799846,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4115,
+          52.5235
+        ]
+      },
+      "properties": {
+        "name": "Berlin",
+        "country": "Germany",
+        "iso3": "DEU",
+        "economic_weight": 8.35,
+        "gdp_usd": 84619845881.2608,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20795,
+          5.57045
+        ]
+      },
+      "properties": {
+        "name": "Accra",
+        "country": "Ghana",
+        "iso3": "GHA",
+        "economic_weight": 4.59,
+        "gdp_usd": 1217230094.97205,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7166,
+          37.9792
+        ]
+      },
+      "properties": {
+        "name": "Athens",
+        "country": "Greece",
+        "iso3": "GRC",
+        "economic_weight": 5.71,
+        "gdp_usd": 4274890306.82895,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5328,
+          14.6248
+        ]
+      },
+      "properties": {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "iso3": "GTM",
+        "economic_weight": 4.46,
+        "gdp_usd": 1043599900,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1548,
+          6.80461
+        ]
+      },
+      "properties": {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "iso3": "GUY",
+        "economic_weight": 2.85,
+        "gdp_usd": 170216241.126064,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3288,
+          18.5392
+        ]
+      },
+      "properties": {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "iso3": "HTI",
+        "economic_weight": 3.27,
+        "gdp_usd": 273187200,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4667,
+          15.1333
+        ]
+      },
+      "properties": {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "iso3": "HND",
+        "economic_weight": 3.76,
+        "gdp_usd": 475650000,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109,
+          22.3964
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong SAR, China",
+        "country": "Hong Kong SAR, China",
+        "iso3": "HKG",
+        "economic_weight": 4.67,
+        "gdp_usd": 1320796651.69457,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8952,
+          64.1353
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "iso3": "ISL",
+        "economic_weight": 3.23,
+        "gdp_usd": 260984498.826389,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.225,
+          28.6353
+        ]
+      },
+      "properties": {
+        "name": "New Delhi",
+        "country": "India",
+        "iso3": "IND",
+        "economic_weight": 7.62,
+        "gdp_usd": 37029883876.1839,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4447,
+          35.6878
+        ]
+      },
+      "properties": {
+        "name": "Tehran",
+        "country": "Iran, Islamic Rep.",
+        "iso3": "IRN",
+        "economic_weight": 5.69,
+        "gdp_usd": 4199134389.9037,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.394,
+          33.3302
+        ]
+      },
+      "properties": {
+        "name": "Baghdad",
+        "country": "Iraq",
+        "iso3": "IRQ",
+        "economic_weight": 4.8,
+        "gdp_usd": 1537252193.09912,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26749,
+          53.3441
+        ]
+      },
+      "properties": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "iso3": "IRL",
+        "economic_weight": 5.03,
+        "gdp_usd": 1998550221.80554,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2035,
+          31.7717
+        ]
+      },
+      "properties": {
+        "name": "Israel",
+        "country": "Israel",
+        "iso3": "ISR",
+        "economic_weight": 5.41,
+        "gdp_usd": 3070585807.33625,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4823,
+          41.8955
+        ]
+      },
+      "properties": {
+        "name": "Rome",
+        "country": "Italy",
+        "iso3": "ITA",
+        "economic_weight": 7.73,
+        "gdp_usd": 42012422612.3955,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.792,
+          17.9927
+        ]
+      },
+      "properties": {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "iso3": "JAM",
+        "economic_weight": 4.1,
+        "gdp_usd": 699064380.374248,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77,
+          35.67
+        ]
+      },
+      "properties": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "iso3": "JPN",
+        "economic_weight": 7.84,
+        "gdp_usd": 47419238274.4619,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8126,
+          -1.27975
+        ]
+      },
+      "properties": {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "iso3": "KEN",
+        "economic_weight": 4.21,
+        "gdp_usd": 791265459.493816,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.957,
+          37.5323
+        ]
+      },
+      "properties": {
+        "name": "Seoul",
+        "country": "Korea, Rep.",
+        "iso3": "KOR",
+        "economic_weight": 5.64,
+        "gdp_usd": 3973069306.93069,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7167,
+          -29.5208
+        ]
+      },
+      "properties": {
+        "name": "Maseru",
+        "country": "Lesotho",
+        "iso3": "LSO",
+        "economic_weight": 1.44,
+        "gdp_usd": 34579986.1680055,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7957,
+          6.30039
+        ]
+      },
+      "properties": {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "iso3": "LBR",
+        "economic_weight": 2.95,
+        "gdp_usd": 190495600,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1072,
+          32.8578
+        ]
+      },
+      "properties": {
+        "name": "Tripoli",
+        "country": "Libya",
+        "iso3": "LBY",
+        "economic_weight": 3.61,
+        "gdp_usd": 401644248.9423,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1296,
+          49.61
+        ]
+      },
+      "properties": {
+        "name": "Luxembourg",
+        "country": "Luxembourg",
+        "iso3": "LUX",
+        "economic_weight": 4.12,
+        "gdp_usd": 709941874.044355,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7167,
+          -20.4667
+        ]
+      },
+      "properties": {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "iso3": "MDG",
+        "economic_weight": 4.07,
+        "gdp_usd": 673081724.751168,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.684,
+          3.12433
+        ]
+      },
+      "properties": {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "iso3": "MYS",
+        "economic_weight": 5.0,
+        "gdp_usd": 1916229477.13657,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4977,
+          -20.1605
+        ]
+      },
+      "properties": {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "iso3": "MUS",
+        "economic_weight": 2.81,
+        "gdp_usd": 162089563.829564,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1276,
+          19.427
+        ]
+      },
+      "properties": {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "iso3": "MEX",
+        "economic_weight": 6.7,
+        "gdp_usd": 13040000000,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8704,
+          33.9905
+        ]
+      },
+      "properties": {
+        "name": "Rabat",
+        "country": "Morocco",
+        "iso3": "MAR",
+        "economic_weight": 5.05,
+        "gdp_usd": 2037154741.93211,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9562,
+          21.914
+        ]
+      },
+      "properties": {
+        "name": "Naypyidaw",
+        "country": "Myanmar",
+        "iso3": "MMR",
+        "economic_weight": 3.88,
+        "gdp_usd": 545098447.640862,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3157,
+          27.6939
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "iso3": "NPL",
+        "economic_weight": 3.82,
+        "gdp_usd": 508334413.965087,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89095,
+          52.3738
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "iso3": "NLD",
+        "economic_weight": 6.71,
+        "gdp_usd": 13282979014.563,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.776,
+          -41.2865
+        ]
+      },
+      "properties": {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "iso3": "NZL",
+        "economic_weight": 5.94,
+        "gdp_usd": 5536098360.49526,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2734,
+          12.1475
+        ]
+      },
+      "properties": {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "iso3": "NIC",
+        "economic_weight": 3.11,
+        "gdp_usd": 227223322.141537,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1073,
+          13.514
+        ]
+      },
+      "properties": {
+        "name": "Niamey",
+        "country": "Niger",
+        "iso3": "NER",
+        "economic_weight": 3.71,
+        "gdp_usd": 449526873.29589,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48906,
+          9.05804
+        ]
+      },
+      "properties": {
+        "name": "Abuja",
+        "country": "Nigeria",
+        "iso3": "NGA",
+        "economic_weight": 5.69,
+        "gdp_usd": 4196174501.5302,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7387,
+          59.9138
+        ]
+      },
+      "properties": {
+        "name": "Oslo",
+        "country": "Norway",
+        "iso3": "NOR",
+        "economic_weight": 5.88,
+        "gdp_usd": 5197398721.41367,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5874,
+          23.6105
+        ]
+      },
+      "properties": {
+        "name": "Muscat",
+        "country": "Oman",
+        "iso3": "OMN",
+        "economic_weight": 1.66,
+        "gdp_usd": 44234656.4535004,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          30.5167
+        ]
+      },
+      "properties": {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "iso3": "PAK",
+        "economic_weight": 5.59,
+        "gdp_usd": 3749265014.69971,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5188,
+          8.99427
+        ]
+      },
+      "properties": {
+        "name": "Panama City",
+        "country": "Panama",
+        "iso3": "PAN",
+        "economic_weight": 3.87,
+        "gdp_usd": 537147100,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.194,
+          -9.47357
+        ]
+      },
+      "properties": {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "iso3": "PNG",
+        "economic_weight": 3.12,
+        "gdp_usd": 230496036.879366,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6362,
+          -25.3005
+        ]
+      },
+      "properties": {
+        "name": "Asuncion",
+        "country": "Paraguay",
+        "iso3": "PRY",
+        "economic_weight": 3.32,
+        "gdp_usd": 288884368.016934,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0465,
+          -12.0931
+        ]
+      },
+      "properties": {
+        "name": "Lima",
+        "country": "Peru",
+        "iso3": "PER",
+        "economic_weight": 5.26,
+        "gdp_usd": 2571986572.12719,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035,
+          14.5515
+        ]
+      },
+      "properties": {
+        "name": "Manila",
+        "country": "Philippines",
+        "iso3": "PHL",
+        "economic_weight": 6.21,
+        "gdp_usd": 7515894110.56487,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13552,
+          38.7072
+        ]
+      },
+      "properties": {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "iso3": "PRT",
+        "economic_weight": 5.49,
+        "gdp_usd": 3339150157.85605,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0,
+          18.23
+        ]
+      },
+      "properties": {
+        "name": "San Juan",
+        "country": "Puerto Rico (US)",
+        "iso3": "PRI",
+        "economic_weight": 4.89,
+        "gdp_usd": 1691900000,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0587,
+          -1.95325
+        ]
+      },
+      "properties": {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "iso3": "RWA",
+        "economic_weight": 2.53,
+        "gdp_usd": 119000024,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6977,
+          24.6748
+        ]
+      },
+      "properties": {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "iso3": "SAU",
+        "economic_weight": 4.91,
+        "gdp_usd": 1748124063.55556,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4734,
+          14.7247
+        ]
+      },
+      "properties": {
+        "name": "Dakar",
+        "country": "Senegal",
+        "iso3": "SEN",
+        "economic_weight": 4.42,
+        "gdp_usd": 1003692370.46869,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4466,
+          -4.6309
+        ]
+      },
+      "properties": {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "iso3": "SYC",
+        "economic_weight": 0.5,
+        "gdp_usd": 12012024.6246505,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2134,
+          8.4821
+        ]
+      },
+      "properties": {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "iso3": "SLE",
+        "economic_weight": 3.42,
+        "gdp_usd": 322009961.547048,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          1.28941
+        ]
+      },
+      "properties": {
+        "name": "Singapore",
+        "country": "Singapore",
+        "iso3": "SGP",
+        "economic_weight": 4.11,
+        "gdp_usd": 704751700.302494,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3254,
+          2.07515
+        ]
+      },
+      "properties": {
+        "name": "Mogadishu",
+        "country": "Somalia, Fed. Rep.",
+        "iso3": "SOM",
+        "economic_weight": 2.9,
+        "gdp_usd": 180459936.776025,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1871,
+          -25.746
+        ]
+      },
+      "properties": {
+        "name": "Pretoria",
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "economic_weight": 6.34,
+        "gdp_usd": 8748596500.5614,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70327,
+          40.4167
+        ]
+      },
+      "properties": {
+        "name": "Madrid",
+        "country": "Spain",
+        "iso3": "ESP",
+        "economic_weight": 6.65,
+        "gdp_usd": 12424514013.7604,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8528,
+          6.92148
+        ]
+      },
+      "properties": {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "iso3": "LKA",
+        "economic_weight": 4.72,
+        "gdp_usd": 1409873949.57983,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7309,
+          17.3
+        ]
+      },
+      "properties": {
+        "name": "Basseterre",
+        "country": "St. Kitts and Nevis",
+        "iso3": "KNA",
+        "economic_weight": 0.53,
+        "gdp_usd": 12366635.7500773,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2653,
+          13.2035
+        ]
+      },
+      "properties": {
+        "name": "Kingstown",
+        "country": "St. Vincent and the Grenadines",
+        "iso3": "VCT",
+        "economic_weight": 0.57,
+        "gdp_usd": 13066634.0000817,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5363,
+          15.5932
+        ]
+      },
+      "properties": {
+        "name": "Khartoum",
+        "country": "Sudan",
+        "iso3": "SDN",
+        "economic_weight": 4.53,
+        "gdp_usd": 1126364161.7644,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1679,
+          5.8232
+        ]
+      },
+      "properties": {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "iso3": "SUR",
+        "economic_weight": 2.38,
+        "gdp_usd": 99650000,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0645,
+          59.3327
+        ]
+      },
+      "properties": {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "iso3": "SWE",
+        "economic_weight": 6.87,
+        "gdp_usd": 15930075466.8898,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44821,
+          46.948
+        ]
+      },
+      "properties": {
+        "name": "Bern",
+        "country": "Switzerland",
+        "iso3": "CHE",
+        "economic_weight": 6.5,
+        "gdp_usd": 10412232620.5258,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3119,
+          33.5146
+        ]
+      },
+      "properties": {
+        "name": "Damascus",
+        "country": "Syrian Arab Republic",
+        "iso3": "SYR",
+        "economic_weight": 4.28,
+        "gdp_usd": 857704413.407821,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7382,
+          -6.17486
+        ]
+      },
+      "properties": {
+        "name": "Dodoma",
+        "country": "Tanzania",
+        "iso3": "TZA",
+        "economic_weight": 5.28,
+        "gdp_usd": 2651729807.38808,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.521,
+          13.7308
+        ]
+      },
+      "properties": {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "iso3": "THA",
+        "economic_weight": 5.32,
+        "gdp_usd": 2760750860.62197,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2255,
+          6.1228
+        ]
+      },
+      "properties": {
+        "name": "Lome",
+        "country": "Togo",
+        "iso3": "TGO",
+        "economic_weight": 2.85,
+        "gdp_usd": 171057069.137772,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4789,
+          10.6596
+        ]
+      },
+      "properties": {
+        "name": "Port-of-Spain",
+        "country": "Trinidad and Tobago",
+        "iso3": "TTO",
+        "economic_weight": 3.87,
+        "gdp_usd": 535673252.483535,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3606,
+          39.7153
+        ]
+      },
+      "properties": {
+        "name": "Ankara",
+        "country": "Turkiye",
+        "iso3": "TUR",
+        "economic_weight": 6.21,
+        "gdp_usd": 7566666666.66667,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5729,
+          0.314269
+        ]
+      },
+      "properties": {
+        "name": "Kampala",
+        "country": "Uganda",
+        "iso3": "UGA",
+        "economic_weight": 3.66,
+        "gdp_usd": 423145605.043164,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.126236,
+          51.5002
+        ]
+      },
+      "properties": {
+        "name": "London",
+        "country": "United Kingdom",
+        "iso3": "GBR",
+        "economic_weight": 8.23,
+        "gdp_usd": 73233967692.1028,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032,
+          38.8895
+        ]
+      },
+      "properties": {
+        "name": "Washington D.C.",
+        "country": "United States",
+        "iso3": "USA",
+        "economic_weight": 10.0,
+        "gdp_usd": 541988586206.897,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0675,
+          -34.8941
+        ]
+      },
+      "properties": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "iso3": "URY",
+        "economic_weight": 4.61,
+        "gdp_usd": 1242289239.20493,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8371,
+          9.08165
+        ]
+      },
+      "properties": {
+        "name": "Caracas",
+        "country": "Venezuela, RB",
+        "iso3": "VEN",
+        "economic_weight": 6.22,
+        "gdp_usd": 7663938303.07171,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2937,
+          -15.3982
+        ]
+      },
+      "properties": {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "iso3": "ZMB",
+        "economic_weight": 4.1,
+        "gdp_usd": 698739720.783607,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0672,
+          -17.8312
+        ]
+      },
+      "properties": {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "iso3": "ZWE",
+        "economic_weight": 4.47,
+        "gdp_usd": 1053528036.42755,
+        "source": "World Bank NY.GDP.MKTP.CD 1960"
+      }
+    }
+  ]
+}
