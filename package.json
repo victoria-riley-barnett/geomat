@@ -13,6 +13,9 @@
     "vite": "^7.2.4"
   },
   "dependencies": {
-    "maplibre-gl": "^5.14.0"
+    "@types/three": "^0.186.0",
+    "lil-gui": "^0.21.0",
+    "maplibre-gl": "^5.14.0",
+    "three": "^0.186.1"
   }
 }
